@@ -28,6 +28,7 @@ public final class Integrantes {
         lista.add(new Tarjeta("cbotina", "Carlos Botina", "Bienvenidos al trabajo en equipo. Agreguen su tarjeta!", "#FFD166"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
         lista.add(new Tarjeta("davidmontenegro125", "David Montenegro", "Ya llegó por quien lloraban", "#06D6A0"));
+        lista.add(new Tarjeta("davidbasante-rgb", "David Basante", "El que estudia es por que duda de sus conocimientos", "#ddf506"));
         return lista;
     }
 }
