@@ -30,6 +30,7 @@ public final class Integrantes {
         lista.add(new Tarjeta("davidmontenegro125", "David Montenegro", "Ya llegó por quien lloraban", "#06D6A0"));
         lista.add(new Tarjeta("davidbasante-rgb", "David Basante", "El que estudia es por que duda de sus conocimientos", "#ddf506"));
           lista.add(new Tarjeta("x99ortega", "Fredy Burbano", "Hazlo con miedo pero hazlo", "#1335c0"));
+        lista.add(new Tarjeta("Ralph2710-1", "Rafael Jossa", "Te extraño", "#1206f5"));
         return lista;
     }
 }
